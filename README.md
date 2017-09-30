@@ -14,3 +14,9 @@ production environment for an application, but
 these variables are either different or are more
 convenient to define in a file in the development
 environment.
+
+## Installation
+
+```
+pip install environment-file
+```
